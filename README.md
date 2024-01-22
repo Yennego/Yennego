@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yennego
 - 👀 I’m interested in learning programming and web development. 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on projects to develop my experience and tboughts.
+- 💞️ I’m looking to collaborate on projects to develop my experience and thoughts.
 - 📫 How to reach me (email:zyennego@gmail.com)
 
 <!---
